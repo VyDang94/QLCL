@@ -1,4 +1,13 @@
-# QLCL
+# QLCL - Quality Control Management 
+
+| Item | Description |
+| --- | --- |
+| Purpose | Central repository to **research, design, and develop** digital solutions (web apps, dashboards, automation scripts) that support the operations of the Quality Management Department. |
+| Scope | Focused on digitizing the internal audit system, centrally managing documents, forms, workflows, reports, and audit evidence on a **digital platform** (database + web UI) combined with **Excel and Google Sheets** for data handling and standardization. |
+| Role | Serves as a sandbox to prototype ideas, build tools, standardize workflows, and prepare solutions for hospital-wide implementation through **workflow engines, system integrations (APIs), Python/R scripts, HTML/CSS front‑ends, and micro‑tools for internal audits**. |
+| Key benefits | Enables fast information retrieval via an **internal search engine**, reduces paper dependency, increases transparency, and ensures full traceability for internal audit and quality improvement activities through **data logging and near real‑time tracking**. |
+| Primary users | Staff of the Quality Management Department and related units involved in internal audits, assessments, and quality improvement activities; they are the **end‑users** of the modules and tools developed in this repository. |
+| Technology direction | Prioritizes **web‑based** solutions with **cloud‑ready** architecture, leveraging **REST APIs / webhooks**, **relational databases**, **Excel / Google Sheets** for data collection and preprocessing, **Python & R** for analytics, and **Power BI / Tableau** for BI and data visualization, with progressive adoption of **AI/ML** for analytics, alerts, and improvement recommendations. |
 
 | Mục | Nội dung |
 | --- | --- |
