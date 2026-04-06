@@ -1,8 +1,6 @@
 # JCI Assessment Tool
 
-**English**
-
-JCI Assessment Tool is a browser‑based workspace to structure, track, and review hospital compliance with JCI standards.  
+**JCI Assessment Tool** is a browser‑based workspace to structure, track, and review hospital compliance with JCI standards.  
 It helps the Quality Management Department organize standards, document internal assessments, link evidence, and monitor corrective and improvement actions across departments.
 
 | Item | Description |
@@ -15,9 +13,7 @@ It helps the Quality Management Department organize standards, document internal
 
 ---
 
-**Tiếng Việt**
-
-JCI Assessment Tool là không gian làm việc trên trình duyệt, giúp hệ thống hoá, theo dõi và rà soát mức độ tuân thủ các tiêu chuẩn JCI của bệnh viện.  
+**JCI Assessment Tool** là không gian làm việc trên trình duyệt, giúp hệ thống hoá, theo dõi và rà soát mức độ tuân thủ các tiêu chuẩn JCI của bệnh viện.  
 Công cụ hỗ trợ Phòng Quản lý Chất lượng tổ chức tiêu chuẩn, ghi nhận kết quả đánh giá nội bộ, liên kết bằng chứng và theo dõi hành động khắc phục/cải tiến giữa các khoa/phòng.
 
 | Mục | Nội dung |
