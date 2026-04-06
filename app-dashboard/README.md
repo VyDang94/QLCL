@@ -1,6 +1,6 @@
 # Quality Dashboards
 
-**The Quality Dashboards** module provides browser‑based views of key quality and patient safety indicators for Cho Ray Hospital.  
+**The Quality Dashboards** module provides browser‑based views of key quality and patient safety indicators for CR Hospital.  
 It consolidates data from Excel, Google Sheets, and BI tools into simple dashboards that support routine monitoring, management review, and decision‑making.
 
 | Item | Description |
@@ -13,7 +13,7 @@ It consolidates data from Excel, Google Sheets, and BI tools into simple dashboa
 
 ---
 
-**Module Quality Dashboards** cung cấp các dashboard theo dõi các chỉ số chất lượng và an toàn người bệnh cho Bệnh viện Chợ Rẫy.  
+**Module Quality Dashboards** cung cấp các dashboard theo dõi các chỉ số chất lượng và an toàn người bệnh cho Bệnh viện CR.  
 Dữ liệu được tổng hợp từ Excel, Google Sheets và các công cụ BI, hiển thị dưới dạng biểu đồ và bảng để hỗ trợ giám sát định kỳ, họp giao ban và ra quyết định.
 
 | Mục | Nội dung |
